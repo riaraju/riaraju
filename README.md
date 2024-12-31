@@ -1,10 +1,9 @@
 ## Hi I am Ria Treesa Raju 👋
 
-- 🔭 I’m interested in Machine leanring , Statistcs, Medical Imaging , Deep learning and Natural Language Processing ...
-- 🌱 I’m currently learning more about Natural language processing and Advanced Statistics.
-- 👯 I’m looking to collaborate on Data Scientist and medical imaging opportunties.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: riaraju520@gmail.com
-- 😄 Pronouns: She/her 
-- ⚡ Fun fact: ...
+- I’m interested in Machine leanring , Statistcs, Medical Imaging , Deep learning and Natural Language Processing ...
+- I’m currently learning more about Natural language processing and Advanced Statistics.
+- I’m looking to collaborate on Data analyst,Data Scientist and medical imaging opportunties.
+- Lets discuss about : Healthcare analytics, NLP , Medical Imaging and research.
+- How to reach me: riaraju520@gmail.com
+- Pronouns: She/her 
+- Hobbies : Reading fiction and playing chess
