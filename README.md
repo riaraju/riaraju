@@ -15,16 +15,16 @@
 ### **Data Science & Statistical Analysis**  
 📊 Pandas | NumPy | SciPy | StatsModels | Matplotlib | Seaborn | STATA | Bayesian Inference | A/B Testing | Hypothesis Testing | Survival Analysis  
 
-### **Data Visualization & Business Intelligence**  
+### **Data Visualization **  
 📈 Tableau | Power BI | Excel | Lucid  
 
 ### **Medical Imaging, NLP & Text Mining**  
 🖥️ OpenCV | 3D Slicer | FSL | SPM | HuggingFace | BERT | Oxygen XML Editor  
 
-### **Health Informatics Standards & Clinical Systems**  
+### **Health Informatics Standards **  
 🏥 FHIR | HL7 | ICD-10 | CPT | LOINC | SNOMED | RxNorm | REDCap | Medicare Claims  
 
-### **Cloud, MLOps & Development Tools**  
+### **AI Model Deployment & Engineering Tools**  
 ☁️ AWS | Docker | Databricks | VS Code | Jupyter | Git | Bash | BigQuery  
 
 ### **Data Engineering & Automation**
@@ -35,7 +35,7 @@
 
 ---
 
-## 📥 Connect with Me
+## 📥 Connect with Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/dr-ria-treesa-raju)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/riaraju)
