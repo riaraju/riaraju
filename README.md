@@ -1,42 +1,37 @@
 # Hi there! 👋
 
-🧑‍💻 **Ria Treesa Raju| 📊 Research Data Scientist |
-
-Sure! Here's a refined version with improved flow and clarity:
+🧑‍💻 **Ria Treesa Raju**| 📊 Health Research Data Scientist |
 
 ---
 
 **Healthcare Data Scientist with expertise in AI and a passion for healthcare innovation.** I specialize in developing AI-driven solutions for healthcare research by leveraging machine learning, deep learning, and NLP techniques to analyze diverse biomedical data, including EHR, medical imaging, and clinical notes. With extensive experience in predictive modeling, data visualization, and automation, I focus on enhancing clinical research outcomes and driving impactful healthcare advancements. My mission is to: **Transform data into meaningful insights, insights into discoveries, and discoveries into actionable healthcare improvements.**
 
----
-
-## 🚀 What I Do
-
-🔹 **Healthcare Data Science** – Building predictive models for clinical data analysis, patient outcome forecasting, and decision support systems.
-🔹 **Medical Imaging Informatics** – Developing AI-powered diagnostic models for mammogram and radiology data.
-🔹 **Natural Language Processing (NLP)** – Extracting insights from unstructured clinical text and radiology reports.
-
----
 
 ## 🔥 Technical Skills & Tools
 
-### Programming & Machine Learning
-💪 Python | SQL | R | MATLAB | TensorFlow | PyTorch | Scikit-Learn | XGBoost
+### **Programming Languages & Machine Learning Frameworks**  
+💻 Python | SQL | R | SAS | SPSS | MATLAB | TensorFlow | PyTorch | Scikit-Learn | XGBoost | Optuna | PySpark  
 
-### Data Science & Statistical Analysis
-📊 Pandas | NumPy | SciPy | StatsModels | Matplotlib | Seaborn
+### **Data Science & Statistical Analysis**  
+📊 Pandas | NumPy | SciPy | StatsModels | Matplotlib | Seaborn | STATA | Bayesian Inference | A/B Testing | Hypothesis Testing | Survival Analysis  
 
-### Data Visualization & Business Intelligence
-📈 Tableau | Power BI
+### **Data Visualization & Business Intelligence**  
+📈 Tableau | Power BI | Excel | Lucid  
 
-### Medical Imaging & NLP
-🎨 OpenCV | 3D Slicer | FSL | SPM | HuggingFace | BERT
+### **Medical Imaging, NLP & Text Mining**  
+🖥️ OpenCV | 3D Slicer | FSL | SPM | HuggingFace | BERT | Oxygen XML Editor  
 
-### Health Informatics Standards & Clinical Systems
-🏢 FHIR | HL7 | ICD-10 | CPT | LOINC | SNOMED
+### **Health Informatics Standards & Clinical Systems**  
+🏥 FHIR | HL7 | ICD-10 | CPT | LOINC | SNOMED | RxNorm | REDCap | Medicare Claims  
 
-### Cloud, MLOps & Development Tools
-🛠️ AWS | Docker | VS Code | Jupyter | Git | Bash
+### **Cloud, MLOps & Development Tools**  
+☁️ AWS | Docker | Databricks | VS Code | Jupyter | Git | Bash | BigQuery  
+
+### **Data Engineering & Automation**
+🔄 ETL Pipelines | API Integration | Data Cleaning & Transformation | Automated Reporting Workflows
+
+### **Data Security & Compliance**
+🔒 HIPAA | Data Encryption | Secure Data Pipelines | Medicare & Clinical Data Compliance
 
 ---
 
@@ -49,6 +44,4 @@ Sure! Here's a refined version with improved flow and clarity:
 ---
 
 ## 🌟 "Advancing healthcare through data science and AI."
-
-🚀 Let's collaborate and make AI-driven healthcare a reality!
 
