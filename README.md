@@ -15,13 +15,13 @@
 ### **Data Science & Statistical Analysis**  
 📊 Pandas | NumPy | SciPy | StatsModels | Matplotlib | Seaborn | STATA | Bayesian Inference | A/B Testing | Hypothesis Testing | Survival Analysis  
 
-### **Data Visualization **  
+### **Data Visualization**  
 📈 Tableau | Power BI | Excel | Lucid  
 
 ### **Medical Imaging, NLP & Text Mining**  
 🖥️ OpenCV | 3D Slicer | FSL | SPM | HuggingFace | BERT | Oxygen XML Editor  
 
-### **Health Informatics Standards **  
+### **Health Informatics Standards**  
 🏥 FHIR | HL7 | ICD-10 | CPT | LOINC | SNOMED | RxNorm | REDCap | Medicare Claims  
 
 ### **AI Model Deployment & Engineering Tools**  
