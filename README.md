@@ -9,16 +9,6 @@
 
 ## 🔥 Technical Skills & Tools
 
-### Programming & Machine Learning  ### Programming & Machine Learning  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkblue)
-![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logo=sqlite&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-EF4A00?style=flat-square&logo=mathworks&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-
-
 ### **Programming Languages & Machine Learning Frameworks**  
 💻 Python | SQL | R | SAS | SPSS | MATLAB | TensorFlow | PyTorch | Scikit-Learn | XGBoost | Optuna | PySpark  
 
